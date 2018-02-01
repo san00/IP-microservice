@@ -24,7 +24,7 @@ Live preview
 [View it here](https://request--header.glitch.me/)
 
 
-*Built with Node.js & Express*
+*Built with Node.js, express, NPM*
 
 Made by [san00](https://github.com/san00)
 -------------------
